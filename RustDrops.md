@@ -89,16 +89,6 @@ February 11th 07:00pm UTC until February 18th 07:00pm UTC.
 |  |  |  | Generic | Generic | Generic |
 | 2h | 2h | 2h | 2h | 4h | 6h |
 
-### : Drops on Twitch Round 
-
-
-
-|  |
-| :-: |
-| [Killjoys Mask](https://steamcommunity.com/sharedfiles/filedetails?id=2390085136) |
-| [![](https://rustlabs.com/img/skins/324/11035.png)](https://rustlabs.com/skin/killjoys-mask) |
-|  |
-| 2h |
 ### 3: Drops on Twitch Round 6
 
 March 4th 7:00pm UTC until March 11th 7:00pm UTC.
