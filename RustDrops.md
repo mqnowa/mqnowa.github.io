@@ -84,12 +84,21 @@ February 11th 07:00pm UTC until February 18th 07:00pm UTC.
 |  |  |  |  |  |  |
 | 2h | 2h | 2h | 2h | 2h | 2h |
 |  |  |  |  |  |  |
-| [Mammoth Armored Door](https://steamcommunity.com/sharedfiles/filedetails?id=2385978865) | [bchillz SAR](https://steamcommunity.com/sharedfiles/filedetails?id=2383932887) | [BoxBox Box](https://steamcommunity.com/sharedfiles/filedetails?id=2390945038) | [PrinceVidz Hammer](https://steamcommunity.com/sharedfiles/filedetails?id=2363269093) | [Buddha Mask](https://steamcommunity.com/sharedfiles/filedetails?id=2363112910) | [JordanRants Jackpot Satchel](https://steamcommunity.com/sharedfiles/filedetails?id=2389524900) |
-| [![](https://rustlabs.com/img/skins/324/11037.png)](https://rustlabs.com/skin/mammoth-armored-door) | [![](https://rustlabs.com/img/skins/324/11034.png)](https://rustlabs.com/skin/bchillz-sar) | [![](https://rustlabs.com/img/skins/324/11044.png)](https://rustlabs.com/skin/boxbox-box) | [![](https://rustlabs.com/img/skins/324/11040.png)](https://rustlabs.com/skin/princevidz-hammer) | [![](https://rustlabs.com/img/skins/324/11041.png)](https://rustlabs.com/skin/buddha-mask) | [![](https://rustlabs.com/img/skins/324/11033.png)](https://rustlabs.com/skin/jordanrants-jackpot-satchel) |
+| [Mammoth Armored Door](https://steamcommunity.com/sharedfiles/filedetails?id=2385978865) | [bchillz SAR](https://steamcommunity.com/sharedfiles/filedetails?id=2383932887) | [BoxBox Box](https://steamcommunity.com/sharedfiles/filedetails?id=2390945038) | [PrinceVidz Hammer](https://steamcommunity.com/sharedfiles/filedetails?id=2363269093) | [Killjoys Mask](https://steamcommunity.com/sharedfiles/filedetails?id=2390085136) | [JordanRants Jackpot Satchel](https://steamcommunity.com/sharedfiles/filedetails?id=2389524900) |
+| [![](https://rustlabs.com/img/skins/324/11037.png)](https://rustlabs.com/skin/mammoth-armored-door) | [![](https://rustlabs.com/img/skins/324/11034.png)](https://rustlabs.com/skin/bchillz-sar) | [![](https://rustlabs.com/img/skins/324/11044.png)](https://rustlabs.com/skin/boxbox-box) | [![](https://rustlabs.com/img/skins/324/11040.png)](https://rustlabs.com/skin/princevidz-hammer) | [![](https://rustlabs.com/img/skins/324/11035.png)](https://rustlabs.com/skin/killjoys-mask) | [![](https://rustlabs.com/img/skins/324/11033.png)](https://rustlabs.com/skin/jordanrants-jackpot-satchel) |
 |  |  |  | Generic | Generic | Generic |
 | 2h | 2h | 2h | 2h | 4h | 6h |
 
+### : Drops on Twitch Round 
 
+
+
+|  |
+| :-: |
+| [Killjoys Mask](https://steamcommunity.com/sharedfiles/filedetails?id=2390085136) |
+| [![](https://rustlabs.com/img/skins/324/11035.png)](https://rustlabs.com/skin/killjoys-mask) |
+|  |
+| 2h |
 ### 3: Drops on Twitch Round 6
 
 March 4th 7:00pm UTC until March 11th 7:00pm UTC.
@@ -176,7 +185,6 @@ July 15th 6:00pm UTC until July 22nd 6:00pm UTC.
 
 
 ### 9: Drops on Twitch Round 11
-
 September 2nd 6:00pm UTC until September 9th 6:00pm UTC.
 
 |  |  |  |  |  |  |  |
