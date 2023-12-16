@@ -10,3 +10,4 @@ with open("RustDrops.md") as f:
         elif line.startswith("#"):
             print(line[2:-1])
         elif line.startswith("|"):
+            
