@@ -1,10 +1,10 @@
 ---
 icon: MessageCircleCode
-linkUrl: https://x.com/leowg
-linkText: with a direct question on X (twitter)
-footerIcon: Pickaxe
-footerText: Crafted by an Artisan
+linkUrl: https://x.com/mqnowa_gi
+linkText: 👉@mqnowa_gi👈
+footerIcon: Heart
+footerText: "Kento Abe\n\nBuilt with 🌻 Bloomfolio Crafted by an Artisan"
 footerLinkText: Lauro Guedes
 footerLinkUrl: https://lauroguedes.dev
 ---
-Want to chat? shoot me a dm
+お気軽にご連絡ください！

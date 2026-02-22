@@ -1,33 +1,18 @@
-name: 🌻 Bloomfolio
+name: 阿部 健人
 title: Astro Portfolio Template built with 🌼 DaisyUI
 description: >-
   A modern, responsive, and customizable portfolio template built with Astro and
   DaisyUI. Perfect for developers, designers, and creatives to showcase their
   work and skills.
 avatar: '@assets/hero/avatar.png'
-location: 🇧🇷 Brazil
+location: 🗼東京
 socialLinks:
-  - url: mailto:hello@example.com
+  - url: mailto:abeckento@gmail.com
     icon: Email
     label: Email
-  - url: https://github.com/lauroguedes
+  - url: https://github.com/mqnowa
     icon: GitHub
     label: GitHub
-  - url: https://linkedin.com/in/lauroguedes
-    icon: LinkedIn
-    label: LinkedIn
-  - url: https://twitter.com/leowg
+  - url: https://twitter.com/mqnowa_gi
     icon: Twitter
-    label: X (Twitter)
-  - url: https://bsky.app/profile/lauroguedes.bsky.social
-    icon: Bluesky
-    label: Bluesky
-  - url: https://instagram.com/lauroguedes.dev
-    icon: Instagram
-    label: Instagram
-  - url: https://youtube.com/leowgweb
-    icon: YouTube
-    label: YouTube
-  - url: https://codetips.cloud/u/lauroguedes
-    icon: FolderCode
-    label: CodeTips
+    label: X ※趣味アカウント
