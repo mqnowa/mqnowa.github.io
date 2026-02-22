@@ -5,7 +5,7 @@
  * Update these values to personalize your portfolio site.
  */
 
-import { BookOpen, FileText, Flower2, CodeXml } from "@lucide/astro";
+import { Flower2, CodeXml, Mail } from "@lucide/astro";
 import { Code } from "astro:components";
 
 /**
@@ -19,6 +19,7 @@ export interface SocialLinks {
   instagram?: string;
   youTube?: string;
   codetips?: string;
+  qiita?: string;
 }
 
 /**
@@ -95,45 +96,41 @@ export interface SiteConfig {
  * Update these values to customize your portfolio
  */
 export const siteConfig: SiteConfig = {
-  name: "🌻 Bloomfolio",
-  title: "Astro Portfolio Template built with 🌼 DaisyUI",
+  name: "阿部健人",
+  title: "Python / Javascript / Web エンジニア",
   description:
-    "A modern, responsive, and customizable portfolio template built with Astro and DaisyUI. Perfect for developers, designers, and creatives to showcase their work and skills.",
+    "Pythonで身の回りの作業を自動化することが好き。大学では情報学を専攻し、研究室でVRとロボットの研究をする傍ら、卒論 Web タイマーを作って研究仲間を楽しませるなどしていた。",
   avatar: "../assets/bloomfolio.png",
-  location: "🇧🇷 Brazil",
-  email: "hello@example.com",
+  location: "🗾Japan",
+  email: "abeckento@gmail.com",
   socialLinks: {
-    github: "https://github.com/lauroguedes",
-    linkedin: "https://linkedin.com/in/lauroguedes",
-    twitter: "https://twitter.com/leowg",
-    bluesky: "https://bsky.app/profile/lauroguedes.bsky.social",
-    instagram: "https://instagram.com/lauroguedes.dev",
-    youTube: "https://youtube.com/leowgweb",
-    codetips: "https://codetips.cloud/u/lauroguedes",
+    github: "https://github.com/mqnowa",
+    // linkedin: "https://linkedin.com/in/lauroguedes",
+    // twitter: "https://twitter.com/leowg",
+    // bluesky: "https://bsky.app/profile/lauroguedes.bsky.social",
+    // instagram: "https://instagram.com/lauroguedes.dev",
+    // youTube: "https://youtube.com/leowgweb",
+    // codetips: "https://codetips.cloud/u/lauroguedes",
+    qiita: "https://qiita.com/mqnowa",
   },
-  enableThemeSelector: true,
+  enableThemeSelector: false,
   extraLinks: {
     enable: true,
     links: [
       {
-        link: "/blog/guides/bloomfolio-complete-guide",
-        icon: Flower2,
-        label: "Bloomfolio Guide",
-      },
-      {
-        link: "/blog/guides/content-collections-guide",
-        icon: BookOpen,
-        label: "Content Guide",
-      },
-      {
-        link: "/blog/guides/markdown-guide",
-        icon: FileText,
-        label: "Markdown Guide",
-      },
-      {
         link: "https://github.com/lauroguedes/bloomfolio",
+        icon: Flower2,
+        label: "素敵なテンプレートのリポジトリ",
+      },
+      {
+        link: "https://github.com/mqnowa/mqnowa.github.io",
         icon: CodeXml,
-        label: "GitHub Repo",
+        label: "このポートフォリオのリポジトリ",
+      },
+      {
+        link: "mailto:abeckento@gmail.com",
+        icon: Mail,
+        label: "メールを送る（私用メールアドレスのため、見落とす可能性があります。）",
       },
     ],
   },
@@ -143,7 +140,7 @@ export const siteConfig: SiteConfig = {
     blog: true,
     work: true,
     education: true,
-    hackathons: true,
+    hackathons: false,
     contact: true,
   },
 };

@@ -1,6 +1,9 @@
 ---
 title: "About Me"
-photo: "https://api.dicebear.com/9.x/adventurer-neutral/svg?seed=Destiny&scale=90&backgroundColor=763900,9e5622,ecad80,f2d3b1,c0aede,b6e3f4"
+photo: "/images/profile_g.webp"
 ---
 
-I'm a full-stack developer with a passion for creating beautiful, functional, and user-friendly web applications. With experience in **modern frameworks and technologies**, I love turning ideas into reality through code. When I'm not coding, you can find me **exploring new technologies**, contributing to open source, or enjoying a good cup of coffee.
+**Python** で身の回りの作業を自動化することが好き。大学では情報学を専攻し、研究室で **VR** と **ロボット** の研究をする傍ら、卒論 **Web タイマー** を作って研究仲間を楽しませるなどしていた。
+
+プログラミングをしていないときは、たまに **旅行** に行ったり、 **RPGゲーム** をプレイして壮大な世界に想いを馳せたりしている。
+
