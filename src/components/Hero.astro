@@ -16,6 +16,7 @@ interface Props {
     instagram?: string;
     youTube?: string;
     codetips?: string;
+    qiita?: string;
   };
 }
 
@@ -33,7 +34,7 @@ const { name, title, description, avatar, location, socialLinks } = Astro.props;
     </div>
     <div class="max-w-2xl">
       <h1 class="text-5xl font-bold mb-4">
-        Hi, I'm {name}
+        {name} のポートフォリオ
       </h1>
       <p class="text-xl text-base-content/80 mb-2">{title}</p>
       {location && <p class="text-base-content/60 mb-4">{location}</p>}
@@ -148,6 +149,23 @@ const { name, title, description, avatar, location, socialLinks } = Astro.props;
                   fill="currentColor"
                 >
                   <path d="M31.331,8.248c-.368-1.386-1.452-2.477-2.829-2.848-2.496-.673-12.502-.673-12.502-.673,0,0-10.007,0-12.502,.673-1.377,.37-2.461,1.462-2.829,2.848-.669,2.512-.669,7.752-.669,7.752,0,0,0,5.241,.669,7.752,.368,1.386,1.452,2.477,2.829,2.847,2.496,.673,12.502,.673,12.502,.673,0,0,10.007,0,12.502-.673,1.377-.37,2.461-1.462,2.829-2.847,.669-2.512,.669-7.752,.669-7.752,0,0,0-5.24-.669-7.752ZM12.727,20.758V11.242l8.364,4.758-8.364,4.758Z" />
+                </svg>
+              </a>
+            )}
+            {socialLinks.qiita && (
+              <a
+                href={socialLinks.qiita}
+                class="btn btn-circle btn-ghost"
+                aria-label="Qiita"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 -960 960 960"
+                  fill="currentColor"
+                >
+                  <path xmlns="http://www.w3.org/2000/svg" d="M318-120q-82 0-140-58t-58-140q0-40 15-76t43-64l134-133 56 56-134 134q-17 17-25.5 38.5T200-318q0 49 34.5 83.5T318-200q23 0 45-8.5t39-25.5l133-134 57 57-134 133q-28 28-64 43t-76 15Zm79-220-57-57 223-223 57 57-223 223Zm251-28-56-57 134-133q17-17 25-38t8-44q0-50-34-85t-84-35q-23 0-44.5 8.5T558-726L425-592l-57-56 134-134q28-28 64-43t76-15q82 0 139.5 58T839-641q0 39-14.5 75T782-502L648-368Z"/>
                 </svg>
               </a>
             )}

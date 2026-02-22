@@ -37,10 +37,10 @@ function formatPeriod(startDate: Date, endDate?: Date) {
     month: "short",
     year: "numeric",
   };
-  const start = startDate.toLocaleDateString("en-US", options);
+  const start = startDate.toLocaleDateString("ja-JP", options);
   const end = endDate
-    ? endDate.toLocaleDateString("en-US", options)
-    : "Present";
+    ? endDate.toLocaleDateString("ja-JP", options)
+    : "現在";
   return `${start} - ${end}`;
 }
 

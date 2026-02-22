@@ -10,7 +10,7 @@ import Contact from "../components/Contact.astro";
 import { Briefcase, GraduationCap } from "@lucide/astro";
 import { getEntry, render } from "astro:content";
 import { siteConfig } from "../config";
-import bloomfolioLogo from "../assets/bloomfolio.png";
+import bloomfolioLogo from "../assets/profile.webp";
 
 // Load about content
 const aboutEntry = await getEntry("about", "about");
@@ -57,7 +57,7 @@ const { Content: AboutContent } = await render(aboutEntry);
           variant="timeline"
           color="primary"
           icon={Briefcase}
-          sectionTitle="Work Experience"
+          sectionTitle="職歴"
         />
       )
     }
@@ -71,7 +71,7 @@ const { Content: AboutContent } = await render(aboutEntry);
           color="secondary"
           backgroundColor="base-300"
           icon={GraduationCap}
-          sectionTitle="Education"
+          sectionTitle="学歴"
         />
       )
     }

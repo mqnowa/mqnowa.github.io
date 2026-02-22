@@ -14,10 +14,10 @@ function formatPeriod(startDate: Date, endDate?: Date) {
     day: "numeric",
     year: "numeric",
   };
-  const start = startDate.toLocaleDateString("en-US", options);
+  const start = startDate.toLocaleDateString("ja-JP", options);
 
   if (endDate && endDate.getTime() !== startDate.getTime()) {
-    const end = endDate.toLocaleDateString("en-US", options);
+    const end = endDate.toLocaleDateString("ja-JP", options);
     return `${start} - ${end}`;
   }
 
