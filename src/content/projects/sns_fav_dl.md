@@ -1,7 +1,7 @@
 ---
 title: "SNSいいね画像ダウンロードBOT"
 description: "SNS でいいねした画像を、クラウドストレージ経由でPCに保存するBOT"
-image: "https://api.dicebear.com/9.x/glass/svg?seed=sns_fav_dl"
+image: "./sns_fav_dl.jpg"
 startDate: "2024-8-6"
 # endDate: ""      # Optional (omit for ongoing)
 skills: ["Python", "Linux", "MySQL", "GoogleDriveAPI"]

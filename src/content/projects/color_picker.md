@@ -1,7 +1,7 @@
 ---
 title: "カラーピッカー"
 description: "色プレビューアプリ"
-image: "https://api.dicebear.com/9.x/glass/svg?seed=ColorPickerV2"
+image: "./color_picker.jpg"
 startDate: "2018-11-4"
 endDate: "2018-11-21"      # Optional (omit for ongoing)
 skills: ["iOS", "Swift"]

@@ -1,7 +1,7 @@
 ---
 title: "RSS Line通知アプリ"
 description: "RSS の更新情報をLINE 公式アカウントで通知するアプリ。"
-image: "https://api.dicebear.com/9.x/glass/svg?seed=RSSLineClient"
+image: "./rss_line_client.jpg"
 startDate: "2021-3-6"
 endDate: "2021-3-6"      # Optional (omit for ongoing)
 skills: ["Google App Script", "Webhook", "LINE公式アカウント"]

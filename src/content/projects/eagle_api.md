@@ -1,7 +1,7 @@
 ---
 title: "Eagle API"
 description: "画像管理ソフトEagleの、ローカルAPI用クライアント"
-image: "https://api.dicebear.com/9.x/glass/svg?seed=eagle_api"
+image: "./eagle_api.jpg"
 startDate: "2022-8-1"
 endDate: "2022-8-1"      # Optional (omit for ongoing)
 skills: ["Python3", "requests"]

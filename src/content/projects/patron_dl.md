@@ -1,7 +1,7 @@
 ---
 title: "支援サイトバックアッププログラム"
 description: "クリエイター支援サイトの投稿を保存するプログラム"
-image: "https://api.dicebear.com/9.x/glass/svg?seed=patron_dl"
+image: "./patron_dl.jpg"
 startDate: "2023-8-18"
 # endDate: ""      # Optional (omit for ongoing)
 skills: ["Python", "MySQL", "WebAPI"]

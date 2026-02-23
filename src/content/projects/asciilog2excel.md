@@ -1,7 +1,7 @@
 ---
 title: "テキストログExcel変換（業務）"
 description: "テキスト形式のログをExcelに変換するプログラム"
-image: "https://api.dicebear.com/9.x/glass/svg?seed=asciilog2excel"
+image: "./asciilog2excel.jpg"
 startDate: "2025-8-1"
 endDate: "2026-1-30"      # Optional (omit for ongoing)
 skills: ["Python", "openpyxl", "GoLang", "excelize"]

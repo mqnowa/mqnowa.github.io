@@ -1,7 +1,7 @@
 ---
 title: "mkYoloLabelOnPythonista"
 description: "Yolo 画像認識トレーニング用ラベリングアプリ"
-image: "https://api.dicebear.com/9.x/glass/svg?seed=mkYoloLabelOnPythonista"
+image: "./mkYoloLabelOnPythonista.jpg"
 startDate: "2022-3-13"
 endDate: "2022-3-30"      # Optional (omit for ongoing)
 skills: ["Python3", "Pythonista"]

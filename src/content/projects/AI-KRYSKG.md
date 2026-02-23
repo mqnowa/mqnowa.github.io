@@ -1,7 +1,7 @@
 ---
 title: "AI-KRYSKG"
 description: "Yolo を使用した画像トリミングアプリ"
-image: "https://api.dicebear.com/9.x/glass/svg?seed=AI-KRYSKG"
+image: "./AI-KRYSKG.jpg"
 startDate: "2022-4-15"
 endDate: "2022-4-15"      # Optional (omit for ongoing)
 skills: ["Python3", "YoloV5"]
