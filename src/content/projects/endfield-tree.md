@@ -1,7 +1,7 @@
 ---
 title: "Endfield Tree"
 description: "ゲームのアイテム製作ツリーマップ生成器"
-image: "https://api.dicebear.com/9.x/glass/svg?seed=endfieldtree"
+image: "./endfield-tree.jpg"
 startDate: "2026-1-28"
 endDate: "2026-1-28"      # Optional (omit for ongoing)
 skills: ["Antigravity", "Agent Driven Development", "Javascript", "HTML", "CSS"]

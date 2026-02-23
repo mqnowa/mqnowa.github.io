@@ -1,7 +1,7 @@
 ---
 title: "ArcadeTools"
 description: "音ゲー創作譜面の、ノーツのバッチ配置などを行うためのWebアプリ。"
-image: "https://api.dicebear.com/9.x/glass/svg?seed=ArcadeTools"
+image: "./arcade_tool.jpg"
 startDate: "2022-1-31"
 endDate: "2022-2-2"      # Optional (omit for ongoing)
 skills: ["JavaScript", "HTML", "SCSS", "BootStrap5"]
