@@ -128,9 +128,9 @@ export const siteConfig: SiteConfig = {
         label: "このポートフォリオのリポジトリ",
       },
       {
-        link: "mailto:abeckento@gmail.com",
+        link: "/blog/contact",
         icon: Mail,
-        label: "メールを送る（私用メールアドレスのため、見落とす可能性があります。）",
+        label: "連絡先・履歴書",
       },
     ],
   },
